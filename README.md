@@ -4,7 +4,7 @@
 - 🖥️ System Administrator & Cybersecurity Specialist at **NY TriTech LLC**
 - 🚀 CTO of **Six Industries of Arizona LLC**
 - 🛠️ I love coding and have proficiency in various languages and technologies.
-- 📚 Always learning and trying to broaden my horizons.
+- ❤️ Always learning and trying to broaden my horizons.
 
 ## 🛠️ Technologies & Languages
 
@@ -28,20 +28,12 @@
 - Streamlining system processes at NY TriTech LLC
 
 ## 📌 Other Fields You Might Need
-
-1. **Experience**: Outline your past experiences, projects, or companies you've worked with.
-2. **Education**: List down your educational background.
-3. **Certifications**: Mention any relevant certifications you've acquired.
-4. **Achievements**: Any awards or notable recognitions?
-5. **Publications**: List any books, articles, or journals you've written or been featured in.
-6. **Hobbies & Interests**: It’s always nice to showcase a personal side. 
-7. **Contact Information**: How can someone get in touch with you? Consider adding your professional email or LinkedIn.
-8. **Open Source Contributions**: If you contribute to open-source projects, showcase them here.
-9. **Blogs**: If you write blogs, link them or showcase your latest writings.
+1. **Certifications**: Google IT Certification, Google Cybersecurity Certification, Microsoft Cybersecurity Analyst, Google IT Automation, Akamai Network Engineering.
+2. **Blogs**: [Blog Posts I've Written.](https://www.nytritech.com/blog-2/)
 
 ## 📬 Get in Touch
 
-- LinkedIn: [[linkedin.com/in/yourname](https://www.linkedin.com/in/patrickr88/)](#)
+- LinkedIn: [[linkedin.com/in/patrickr88](https://www.linkedin.com/in/patrickr88/)](#)
 - Twitter: [@PatrickRyan01](#)
 
 ## 📊 GitHub Stats
