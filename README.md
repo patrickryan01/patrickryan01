@@ -33,7 +33,7 @@
 
 ## 📬 Get in Touch
 
-- LinkedIn: [[linkedin.com/in/patrickr88](https://www.linkedin.com/in/patrickr88/)](#)
+- LinkedIn: [[linkedin.com/in/patrickr88](https://www.linkedin.com/in/patrickr88/)]
 
 ## 📊 GitHub Stats
 
