@@ -36,7 +36,4 @@
 - LinkedIn: [[linkedin.com/in/patrickr88](https://www.linkedin.com/in/patrickr88/)]
 
 ## 📊 GitHub Stats
-
-![PatrickRyan01's GitHub stats](https://github-readme-stats.vercel.app/api?username=patrickryan01&show_icons=true&theme=radical)!
-
-![Patrick's github stats](https://github-readme-stats.vercel.app/api?username=patrickryan01)
+![PatrickRyan01's github stats](https://github-readme-stats.vercel.app/api?username=patrickryan01)
