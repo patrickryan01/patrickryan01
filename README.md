@@ -27,7 +27,7 @@
 - Cybersecurity at NY TriTech LLC
 - Streamlining system processes at NY TriTech LLC
 
-## 📌 Other Fields You Might Need
+## 📌 Other Things About Me
 1. **Certifications**: Google IT Certification, Google Cybersecurity Certification, Microsoft Cybersecurity Analyst, Google IT Automation, Akamai Network Engineering.
 2. **Blogs**: [Blog Posts I've Written.](https://www.nytritech.com/blog-2/)
 
