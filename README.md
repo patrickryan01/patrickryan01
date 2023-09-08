@@ -1,8 +1,8 @@
 # My ReadMe
 
 ## 🌟 About Me
-- 🖥️ System Administrator & Cybersecurity Specialist at **NY TriTech LLC**
-- 🚀 CTO of **Six Industries of Arizona LLC**
+- 🖥️ System Administrator & Cybersecurity Specialist at ***NY TriTech LLC***
+- 🚀 CTO of ***Six Industries of Arizona LLC***
 - 🛠️ I love coding and have proficiency in various languages and technologies.
 - ❤️ Always learning and trying to broaden my horizons.
 
