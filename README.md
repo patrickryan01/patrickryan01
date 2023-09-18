@@ -35,5 +35,3 @@
 
 - LinkedIn: [[linkedin.com/in/patrickr88](https://www.linkedin.com/in/patrickr88/)]
 
-## 📊 GitHub Stats
-![PatrickRyan01's github stats](https://github-readme-stats.vercel.app/api?username=patrickryan01)
