@@ -1,7 +1,7 @@
 # My ReadMe
 
 ## 🌟 About Me
-- 🖥️ CTO of ***TriTech Group***
+- 🖥️ COO of ***The TriTech Group***
 - 🚀 CTO of ***Six Industries of Arizona LLC***
 - 🛠️ I love coding and have proficiency in various languages and technologies.
 - ❤️ Always learning and trying to broaden my horizons.
