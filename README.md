@@ -2,7 +2,6 @@
 
 ## 🌟 About Me
 - 🖥️ COO of ***The TriTech Group***
-- 🚀 CTO of ***Six Industries of Arizona LLC***
 - 🛠️ I love coding and have proficiency in various languages and technologies.
 - ❤️ Always learning and trying to broaden my horizons.
 
@@ -23,13 +22,9 @@
 ![HTML](https://img.shields.io/badge/-HTML-E34F26?style=flat-square&logo=html5)
 
 ## 🔭 Current Projects
-- Working on an innovative platforms for Six Industries
+- Worked on an innovative platforms for Six Industries
 - Cybersecurity at NY TriTech LLC
 - Streamlining system processes at NY TriTech LLC
-
-## 📌 Other Things About Me
-1. **Certifications**: Google IT Certification, Google Cybersecurity Certification, Microsoft Cybersecurity Analyst, Google IT Automation, Akamai Network Engineering.
-2. **Blogs**: [Blog Posts I've Written.](https://www.nytritech.com/blog-2/)
 
 ## 📬 Get in Touch
 
