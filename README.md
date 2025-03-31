@@ -22,9 +22,9 @@
 ![HTML](https://img.shields.io/badge/-HTML-E34F26?style=flat-square&logo=html5)
 
 ## 🔭 Current Projects
-- Worked on an innovative platforms for Six Industries
-- Cybersecurity at NY TriTech LLC
-- Streamlining system processes at NY TriTech LLC
+- Created innovative platforms for Six Industries
+- Cybersecurity at The TriTech Group
+- Streamlining system processes at The TriTech Group
 
 ## 📬 Get in Touch
 
