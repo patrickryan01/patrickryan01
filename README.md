@@ -93,7 +93,7 @@ Mostly Kubernetes manifests, Helm charts, and the kind of infrastructure code th
 
 - Debugging in production isn't a bug, it's a feature
 - My commit history is a timeline of optimism followed by reality
-- I've been "just trying one more thing" since 2010
+- I've been "just trying one more thing" since 2019
 - My Kubernetes cluster has more uptime than my sleep schedule
 - Grafana dashboards are my love language
 
