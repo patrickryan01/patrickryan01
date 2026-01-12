@@ -1,64 +1,118 @@
-# 👋 Hey, I'm Patrick Ryan
+# 👋 Sup, I'm Patrick Ryan
 
-**CTO @ Fireball Industries** 🔥 — Previously TriTech, now kicking it at [fireballz.ai](https://fireballz.ai). Yes, the domain ends in `.ai`, because apparently, that's how you know we're legit.
+**CTO @ Fireball Industries** 🔥 — Still here. Still kicking it at [fireballz.ai](https://fireballz.ai). Yes, the domain ends in `.ai` because 2026 and venture capital, baby.
 
-## 🧰 Languages & Tech I'm Fluent In
+> *"I turn YAML files into production infrastructure and existential dread into Prometheus alerts."*
 
-![Dart](https://img.shields.io/badge/-Dart-0175C2?style=flat-square&logo=dart)
-![C++](https://img.shields.io/badge/-C++-00599C?style=flat-square&logo=c)
-![C](https://img.shields.io/badge/-C-A8B9CC?style=flat-square&logo=c)
-![C#](https://img.shields.io/badge/-C%23-239120?style=flat-square&logo=c-sharp)
-![Java](https://img.shields.io/badge/-Java-E34A86?style=flat-square&logo=java)
-![Go](https://img.shields.io/badge/-Go-00ADD8?style=flat-square&logo=go)
-![Kotlin](https://img.shields.io/badge/-Kotlin-0095D5?style=flat-square&logo=kotlin)
-![Python](https://img.shields.io/badge/-Python-3776AB?style=flat-square&logo=python)
-![Swift](https://img.shields.io/badge/-Swift-FA7343?style=flat-square&logo=swift)
-![JavaScript](https://img.shields.io/badge/-JavaScript-F7DF1E?style=flat-square&logo=javascript)
-![PHP](https://img.shields.io/badge/-PHP-777BB4?style=flat-square&logo=php)
-![SQL](https://img.shields.io/badge/-SQL-4479A1?style=flat-square&logo=postgresql)
-![HCL](https://img.shields.io/badge/-HCL-000000?style=flat-square&logo=hashicorp)
-![Bash](https://img.shields.io/badge/-Bash-4EAA25?style=flat-square&logo=gnu-bash)
-![PowerShell](https://img.shields.io/badge/-PowerShell-012456?style=flat-square&logo=power-shell)
-![HTML](https://img.shields.io/badge/-HTML-E34F26?style=flat-square&logo=html5)
+## 💀 What I Actually Do (No Cap)
 
-## 🚀 What I'm Currently Launching
+I'm the person who makes the industrial IoT stack work when everyone else has gone home. You know that feeling when your factory floor crashes at 3 AM? Yeah, I fixed that. With Kubernetes. And spite.
 
-### **Fireballz.ai Platform**
-- Leading the architecture and development of next-gen AI-driven solutions.
-- Ensuring scalability, security, and high performance (no, seriously).
+- 🏭 **Industrial IoT Whisperer**: CODESYS, Node-RED, and enough MQTT to make you question your life choices
+- ☁️ **Cloud Native Chaos Engineer**: Helm charts, Kubernetes manifests, and the kind of YAML that makes grown DevOps engineers weep
+- 📊 **Observability Overlord**: Prometheus, Grafana, Loki, InfluxDB, TimescaleDB — if it can graph your failures, I've deployed it
+- 🔐 **Security Theater Director**: Building defenses so your PLC doesn't become a Bitcoin miner
+- 🤖 **AI Stuff**: Because apparently my job title requires it now
 
-### **Cybersecurity Magic**
-- Building defenses tighter than airport Wi-Fi.
-- Automated threat detection & incident response—because manual security audits are about as fun as dial-up.
+## 🧰 Tech Stack (AKA My Therapy Bills)
 
-### **Infrastructure Automation**
-- Saving engineers from copy-paste nightmares with CI/CD pipelines, Terraform, and scripting.
+![Kubernetes](https://img.shields.io/badge/-Kubernetes-326CE5?style=flat-square&logo=kubernetes&logoColor=white)
+![Docker](https://img.shields.io/badge/-Docker-2496ED?style=flat-square&logo=docker&logoColor=white)
+![Helm](https://img.shields.io/badge/-Helm-0F1689?style=flat-square&logo=helm&logoColor=white)
+![Prometheus](https://img.shields.io/badge/-Prometheus-E6522C?style=flat-square&logo=prometheus&logoColor=white)
+![Grafana](https://img.shields.io/badge/-Grafana-F46800?style=flat-square&logo=grafana&logoColor=white)
+![Python](https://img.shields.io/badge/-Python-3776AB?style=flat-square&logo=python&logoColor=white)
+![Go](https://img.shields.io/badge/-Go-00ADD8?style=flat-square&logo=go&logoColor=white)
+![C++](https://img.shields.io/badge/-C++-00599C?style=flat-square&logo=c%2B%2B&logoColor=white)
+![C#](https://img.shields.io/badge/-C%23-239120?style=flat-square&logo=c-sharp&logoColor=white)
+![PostgreSQL](https://img.shields.io/badge/-PostgreSQL-4169E1?style=flat-square&logo=postgresql&logoColor=white)
+![InfluxDB](https://img.shields.io/badge/-InfluxDB-22ADF6?style=flat-square&logo=influxdb&logoColor=white)
+![Terraform](https://img.shields.io/badge/-Terraform-7B42BC?style=flat-square&logo=terraform&logoColor=white)
+![Bash](https://img.shields.io/badge/-Bash-4EAA25?style=flat-square&logo=gnu-bash&logoColor=white)
+![PowerShell](https://img.shields.io/badge/-PowerShell-5391FE?style=flat-square&logo=powershell&logoColor=white)
+![MQTT](https://img.shields.io/badge/-MQTT-660066?style=flat-square&logo=mqtt&logoColor=white)
+![Node--RED](https://img.shields.io/badge/-Node--RED-8F0000?style=flat-square&logo=node-red&logoColor=white)
 
-## 📈 Recent Wins
+## 🔥 Current Projects (Send Help)
 
-- 🚀 Built and scaled infrastructure to handle thousands of concurrent users (actual numbers redacted by ninjas).
-- ⚡ Reduced latency across core services by percentages worthy of bragging about (but NDA says "shh").
-- 🛠 Automated deployments = more coffee breaks, fewer pager alerts.
+### **Industrial IoT Platform That Actually Works**
+- Wrangling CODESYS PLCs, Ignition Edge, and Home Assistant into a cohesive stack
+- Making legacy industrial equipment speak modern protocols (they're not happy about it)
+- Kubernetes on AMD64, ARM64, and x86 because apparently, one architecture is for quitters
 
-## 🤖 GitHub vs LinkedIn
+### **Observability Stack Overkill Edition**
+- Prometheus + Grafana + Loki + Alert Manager = sleeping through the night (maybe)
+- Telegraf collecting metrics from places metrics shouldn't exist
+- PostgreSQL and TimescaleDB for when you need to query the past *and* the future
 
-- **LinkedIn**: Corporate leadership, cybersecurity strategy, and operational wizardry.
-- **GitHub**: Public projects coming soon, once my current NDAs loosen up. (Stay tuned!)
+### **Helm Chart Factory**
+- Building Helm charts for everything from Mosquitto to Node-RED
+- CI/CD pipelines that deploy faster than I can regret my architectural decisions
+- Alert rules that ping me at 2 AM because a sensor sneezed
 
-## 🎉 Upcoming README Features
+### **AI-Powered Something Something**
+- Fireballz.ai does AI things (the details are above my pay grade, but I deploy them)
+- Machine learning models that are definitely learning *something*
 
-- **Dynamic GitHub Stats**
-- **Interactive Skill Bars**
-- **Actionable CI/CD Badges**
-- **Embedded Tweets & Blog Snippets** (as soon as marketing lets me).
+## 📈 Achievements Unlocked
 
-## 🗣 Quote of the Moment
-> "I'm not lazy, I'm just highly optimized."
+- ✅ Made CODESYS containers work on ARM64 (the documentation said it couldn't be done—they were wrong)
+- ✅ Deployed a full observability stack that actually caught issues before users did
+- ✅ Survived migrating production infrastructure at 2 AM on a Tuesday
+- ✅ Wrote enough YAML to deforest a small nation (digitally)
+- ✅ Got Prometheus alerts tuned so well I almost forgot what PagerDuty sounds like
+- ✅ Still employed despite deploying to prod on Fridays (sometimes)
 
-## 📬 Reach Out (Pigeon Mail Discouraged)
+## 🎭 The Duality of Man
+
+**LinkedIn Patrick**: "Passionate about leveraging synergistic cloud-native solutions to drive digital transformation..."
+
+**GitHub Patrick**: Commits at 3 AM titled "fix the thing" and "IT WORKS DO NOT TOUCH"
+
+## 💭 Honest Skills Assessment
+
+- **Kubernetes**: Can debug a failing pod with my eyes closed (have done it at 4 AM)
+- **Helm**: Write charts in my sleep (literally had dreams about templating)
+- **YAML**: Stockholm syndrome is real
+- **Debugging**: Professional panic-googler, Stack Overflow VIP
+- **Documentation**: Write detailed docs that future-me will definitely ignore
+- **Coffee**: Senior level proficiency, approaching architect tier
+
+## 📦 What's In My GitHub
+
+Mostly Kubernetes manifests, Helm charts, and the kind of infrastructure code that makes you say "it works, don't ask why."
+
+- 🏭 Industrial IoT monitoring and control systems
+- 📊 Full observability stacks (Prometheus, Grafana, Loki, the whole gang)
+- 🐳 Docker containers for things that probably shouldn't be containerized
+- 📈 TimescaleDB and InfluxDB deployments for time-series data hoarding
+- 🔌 MQTT, Node-RED, and other IoT sorcery
+- 🎯 Alert Manager configs that are definitely not tuned too aggressively
+
+## 🎯 Fun Facts
+
+- Debugging in production isn't a bug, it's a feature
+- My commit history is a timeline of optimism followed by reality
+- I've been "just trying one more thing" since 2010
+- My Kubernetes cluster has more uptime than my sleep schedule
+- Grafana dashboards are my love language
+
+## 🗣 Quotes That Keep Me Going
+
+> "It works on my machine" — me, before Kubernetes made this everyone's problem
+
+> "I'm not saying it's AI, but the marketing team insists" — also me
+
+> "Just one more alert rule" — famous last words
+
+## 📬 Contact Me (If You Dare)
+
 - 📧 [patrick@fireballz.ai](mailto:patrick@fireballz.ai)
-- 🔗 [LinkedIn](https://www.linkedin.com/in/patrickr88)
+- 🔗 [LinkedIn](https://www.linkedin.com/in/patrickr88) — where I pretend to be professional
+- 🐙 GitHub — where you can see my actual personality
 
 ---
 
-🎯 **TL;DR**: Updated role, fresh tech stack, same smart ass corporate lackey, just a little bit more cool.
+**TL;DR**: Professional infrastructure arsonist who keeps the Fireball Industries stack from becoming actual fireball. Helm charts, Kubernetes clusters, and industrial IoT by day. Crying into Grafana dashboards by night. Still here. Still shipping. Still questioning my career choices.
+
+*Last updated: When the alerts stopped long enough for me to edit this file*
