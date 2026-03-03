@@ -2,7 +2,7 @@
 
 **CTO @ Fireball Industries** 🔥 — Somehow still alive and still shipping code at [fireballz.ai](https://fireballz.ai). Yes, the domain ends in `.ai` because it's 2026 and if your company doesn't have an AI domain, do you even exist? Investors said yes. My therapist said no.
 
-> *"I mass produce White Monsters, turn YAML files into production infrastructure, and convert existential dread into Prometheus alerts. In that order."*
+> *"I mass consume White Monster, turn YAML files into production infrastructure, and convert existential dread into Prometheus alerts. In that order."*
 
 ## 💀 What I Actually Do (Emotionally and Professionally)
 
@@ -136,11 +136,13 @@ Mostly Kubernetes manifests, Helm charts, Rancher configs, and the kind of infra
 ## 📬 Reach Me (At Your Own Risk)
 
 - 📧 [patrick@fireballz.ai](mailto:patrick@fireballz.ai) — I respond faster than my Prometheus scrape interval
-- 🔗 [LinkedIn](https://www.linkedin.com/in/patrickr88) — where I cosplay as a professional
+- � [patrick.ryan1988@outlook.com](mailto:patrick.ryan1988@outlook.com) — the personal line, for when it's not a Fireball emergency
+- 🎮 Discord: **pryan0508** — where I actually live
+- �🔗 [LinkedIn](https://www.linkedin.com/in/patrickr88) — where I cosplay as a professional
 - 🐙 GitHub — where the mask comes off and the 3 AM commits live
 
 ---
 
-**TL;DR**: CTO, inventor, and professional infrastructure arsonist at Fireball Industries. Built **Industrial Dashboard** and **Emberburn** from scratch because nobody else was going to. Runs Kubernetes clusters on Rancher across more architectures than I have healthy coping mechanisms. Fueled exclusively by White Monsters.  Helm charts by day. Grafana dashboards by night. Perpetually one `kubectl delete` away from a career change.
+**TL;DR**: CTO, inventor, and professional infrastructure arsonist at Fireball Industries. Built **Industrial Dashboard** and **Emberburn** from scratch because nobody else was going to. Runs Kubernetes clusters on Rancher across more architectures than I have healthy coping mechanisms. Fueled exclusively by White Monsters (& Nicotine).  Helm charts by day. Grafana dashboards by night. Perpetually one `kubectl delete` away from a career change.
 
 *Last updated: Somewhere between my 3rd White Monster and my 47th Prometheus alert today*
