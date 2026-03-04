@@ -2,7 +2,7 @@
 
 ### I should not have access to production systems but here we are
 
-**CTO @ Fireball Industries** 🔥 — Somehow still vertical and still shipping code at [fireballz.ai](https://fireballz.ai). Yes, the domain ends in `.ai` because it's 2026 and if your company doesn't have an AI domain you're basically a fax machine. Investors love it. My therapist has concerns. I have White Monsters. We are not the same.
+**CTO @ Fireball Industries** 🔥 — Somehow still vertical and still shipping code at [fireballz.ai](https://fireballz.ai). Yes, the domain ends in `.ai` because it's 2026 and if your company doesn't have an AI domain you're basically a fax machine. Investors love it. My therapist has concerns. I have a white monster. We are not the same.
 
 > *"I mass consume White Monsters, mass produce YAML files, and mass convert existential dread into Prometheus alerts. I am the pipeline. The pipeline is me. We have become one."*
 
