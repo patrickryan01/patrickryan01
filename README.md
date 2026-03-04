@@ -100,9 +100,9 @@ I also invented things. On purpose. With intent. Like a menace.
 
 ## 💭 Skills Assessment (Submitted Under Duress)
 
-- **Kubernetes**: I can debug a CrashLoopBackOff blindfolded, half-asleep, in boxers, with one hand holding a White Monster. I have done all of these simultaneously. The pod came back up. I did not.
+- **Kubernetes**: I can debug a CrashLoopBackOff blindfolded, half-asleep, in boxers, with one hand holding my white monster. I have done all of these simultaneously. The pod came back up. I did not.
 - **Rancher**: Managing multi-cluster deployments like a feral cat herder at a laser pointer convention. Chaotic. Effective. Nobody should watch.
-- **Helm**: I write charts in my sleep. I've dreamt in Go templates. I woke up once and had typed `{{ .Values.help.me }}` into a Slack DM. To my boss.
+- **Helm**: I write charts in my sleep. I've dreamt in Go templates. I woke up once and had typed `{{ .Values.help.me }}` into a Discord DM. To my boss.
 - **YAML**: Stockholm syndrome doesn't cover it. I have *feelings* for YAML. I find indentation errors soothing. Two-space indentation is correct and I will die on this hill. Alone. With my White Monster.
 - **Debugging**: Professional panic-Googler. Stack Overflow Hall of Fame inductee (pending). GitHub Issues archaeologist. I have found answers in closed issues from 2014 that were marked "wontfix." I fixed them anyway.
 - **Documentation**: Write incredibly detailed, beautifully formatted documentation that future-me will absolutely, categorically, without question, ignore at 3 AM while panicking.
@@ -124,21 +124,21 @@ Mostly Kubernetes manifests, Helm charts, Rancher configs, and the kind of infra
 
 ## 🎯 Fun Facts (Cries For Help Disguised As Personality Traits)
 
-- I don't drink coffee. Coffee is for people who want to *gently wake up*. I drink White Monsters because I want to achieve low Earth orbit by 9 AM... My cardiologist is *fascinated*.
-- Debugging in production isn't a bug — it's a lifestyle choice and I've committed to it like a marriage I can't leave
-- My commit history reads like the five stages of grief, looping infinitely, with no garbage collection
+- I don't drink coffee. Coffee is for people who want to *gently wake up*. I drink white monster because I want to achieve low Earth orbit by 9 AM... My cardiologist is *fascinated*.
+- Debugging in production isn't a bug — it's a lifestyle choice and I've committed to it like a marriage I can't leave.
+- My commit history reads like the five stages of grief, looping infinitely, with no garbage collection.
 - I've been "just trying one more thing" since 2019. It is now 2026. The "one more thing" has not ended. I don't think it ever will.
 - My Kubernetes clusters have more uptime than my sleep schedule, my social life, my gym membership. My personal projects have just become professional projects.
 - Grafana dashboards are my love language. I have shown dashboards to people on dates. There was no second date. I regret nothing.
 - I have invented two actual products (**Industrial Dashboard** & **Emberburn**) and my imposter syndrome still sends me emails like "are you sure tho?"
 - I once stayed awake for 38 hours during a migration and hallucinated that a Grafana panel was talking to me. It was right about the CPU spike.
-- The number of White Monsters I consume daily is a trade secret protected under NDA. Mostly because if I said it out loud, someone would stage an intervention. Then rush me to the ER.
+- The number of white monster I consume daily is a trade secret protected under NDA. Mostly because if I said it out loud, someone would stage an intervention. Then rush me to the ER.
 
 ## 🗣️ Things I've Said Out Loud That Concerned People
 
 > "It works on my machine" — me, moments before Kubernetes made this everyone's problem in every timezone simultaneously
 
-> "I built that. With these hands. And this Monster. Fear me." — me, gesturing wildly at Industrial Dashboard and Emberburn during a standup that did not call for that energy
+> "I built that. With these hands. And this white monster. Fear me." — me, gesturing wildly at Industrial Dashboard and Emberburn during a demo that did not call for that energy
 
 > "I'm not saying it's AI, but the marketing team has already updated the website, printed merch, and booked a conference slot" — also me, finding out via LinkedIn
 
@@ -146,7 +146,7 @@ Mostly Kubernetes manifests, Helm charts, Rancher configs, and the kind of infra
 
 > "Sleep is just uptime for humans, and I'm running at like 40% SLA" — me, unironically, to a doctor
 
-> "I'm fine." — me, clearly not fine, surrounded by 6 empty White Monster cans and 14 terminal windows
+> "I'm fine." — me, clearly not fine, surrounded by 6 empty white monster cans and 14 terminal windows
 
 > "You can't fire me, I'm the only one who knows how the YAML works" — technically not a threat, technically
 
