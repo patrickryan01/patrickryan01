@@ -6,7 +6,7 @@
 
 > *"I mass consume White Monster, mass produce YAML files, and mass convert existential dread into Prometheus alerts. I am the pipeline. The pipeline is me. We have become one."*
 
-⚠️ **DISCLAIMER**: No production systems were harmed in the making of this profile. That's a lie. Several were. They're fine now. Probably.
+⚠️ **DISCLAIMER**: No production systems were harmed in the making of this profile. (Several were.)
 
 ## 💀 What I Actually Do (Besides Slowly Unravel)
 
