@@ -17,7 +17,7 @@ I also invented things. On purpose. With intent. Like a menace.
 - 🏭 **Industrial IoT Necromancer**: I raise dead PLCs from their graves, force them to speak MQTT, and make them *like it*. CODESYS, Node-RED, and protocols that predate my will to live.
 - ☁️ **Cloud Native Villain Origin Story**: Helm charts, Kubernetes, Rancher — I have mass orchestrated containers across architectures like some kind of digital warlord and I have zero plans to stop.
 - 📊 **Observability Gremlin**: Prometheus, Grafana, Loki, InfluxDB, TimescaleDB — I will graph your failures, print them out, frame them, and hang them in my office. I have done this.
-- 🔐 **Security Unhinged Mode**: Building defenses so your PLC doesn't join a botnet and start mining Dogecoin. Not because I care about crypto. Because that's *my* PLC and it works for *me*
+- 🔐 **Security Unhinged Mode**: Building defenses so your PLC doesn't join a botnet and start mining Dogecoin. Not because I care about crypto. Because that's *my* PLC and it works for *me* goddamnit.
 - 🤖 **AI Adjacent**: My job title legally requires this bullet point. I am complying under protest.
 - 🥤 **White Monster IV Drip**: Zero Ultra is the daily driver. Zero Sugar is for deployments. Pipeline is the blood. I am the pipeline. The fridge has a Kubernetes label on it. This is not a joke.
 
