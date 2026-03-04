@@ -10,7 +10,7 @@
 
 ## 💀 What I Actually Do (Besides Slowly Unravel)
 
-I keep industrial IoT systems running so factory floors don't become very expensive modern art installations. You know that 3 AM phone call where everything is on fire? I don't wait for the call anymore. I'm already awake. I'm always awake. The White Monsters won't let me sleep and the Prometheus alerts won't let me forget.
+I keep industrial IoT systems running so factory floors don't become very expensive modern art installations. You know that 3 AM phone call where everything is on fire? I don't wait for the call anymore. I'm already awake. I'm always awake. The white monster won't let me sleep and the Prometheus alerts won't let me forget.
 
 I also invented things. On purpose. With intent. Like a menace.
 
