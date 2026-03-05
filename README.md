@@ -2,28 +2,30 @@
 
 ### I should not have access to production systems but here we are
 
-**CTO @ Fireball Industries** 🔥 — Somehow still vertical and still shipping code at [fireballz.ai](https://fireballz.ai). Yes, the domain ends in `.ai` because it's 2026 and if your company doesn't have an AI domain you're basically a fax machine. Investors love it. My therapist has concerns. I have a white monster. We are not the same.
+**CTO @ Fireball Industries** 🔥 — Somehow still vertical and still shipping code at [fireballz.ai](https://fireballz.ai). Yes, the domain ends in `.ai` because it's 2026 and if your company doesn't have an AI domain you're basically a fax machine. Investors love it. My therapist has concerns. I have a white monster. A big one. Thick. Veiny from the cold. People see me grip it and they either look away or ask questions they're not ready to hear the answers to. We are not the same.
 
-> *"I mass consume White Monster, mass produce YAML files, and mass convert existential dread into Prometheus alerts. I am the pipeline. The pipeline is me. We have become one."*
+> *"I mass consume White Monster, mass produce YAML files, and mass convert existential dread into Prometheus alerts. I am the pipeline. The pipeline is me. We have become one. My white monster is always in my hand. It's the first thing I reach for in the morning and the last thing I put down at night. People stare. I let them."*
 
 ⚠️ **DISCLAIMER**: No production systems were harmed in the making of this profile. (Several were.)
 
 ## 💀 What I Actually Do (Besides Slowly Unravel)
 
-I keep industrial IoT systems running so factory floors don't become very expensive modern art installations. You know that 3 AM phone call where everything is on fire? I don't wait for the call anymore. I'm already awake. I'm always awake. The white monster won't let me sleep and the Prometheus alerts won't let me forget.
+I keep industrial IoT systems running so factory floors don't become very expensive modern art installations. You know that 3 AM phone call where everything is on fire? I don't wait for the call anymore. I'm already awake. I'm always awake. The white monster won't let me sleep and the Prometheus alerts won't let me forget. My white monster keeps me up all night. Every night. It never quits. Neither do I.
 
-I also invented things. On purpose. With intent. Like a menace.
+I also invented things. On purpose. With intent. Like a menace. I write Go like a man possessed — goroutines spawning, channels flowing, binaries compiling into single static executables that deploy like a fist through drywall.
 
 - 🏭 **Industrial IoT Necromancer**: I raise dead PLCs from their graves, force them to speak MQTT, and make them *like it*. CODESYS, Node-RED, and protocols that predate my will to live.
 - ☁️ **Cloud Native Villain Origin Story**: Helm charts, Kubernetes, Rancher — I have mass orchestrated containers across architectures like some kind of digital warlord and I have zero plans to stop.
 - 📊 **Observability Gremlin**: Prometheus, Grafana, Loki, InfluxDB, TimescaleDB — I will graph your failures, print them out, frame them, and hang them in my office. I have done this.
 - 🔐 **Security Unhinged Mode**: Building defenses so your PLC doesn't join a botnet and start mining Dogecoin. Not because I care about crypto. Because that's *my* PLC and it works for *me* goddamnit.
+- 🐹 **Go Enjoyer**: I write Go because real systems need real binaries, not 400MB Docker images full of node_modules and regret. `go build`. Static binary. Deploy. Done. The compiler is my therapist and it has zero tolerance for my bullshit.
 - 🤖 **AI Adjacent**: My job title legally requires this bullet point. I am complying under protest.
-- 🥤 **White Monster IV Drip**: Zero Ultra is the daily driver. Zero Sugar is for deployments. Pipeline is the blood. I am the pipeline. The fridge has a Kubernetes label on it. This is not a joke.
+- 🥤 **White Monster IV Drip**: Zero Ultra is the daily driver. Zero Sugar is for deployments. Pipeline is the blood. I am the pipeline. The fridge has a Kubernetes label on it. This is not a joke. People ask me why I always have a White Monster in my hand. I tell them it's for the energy. That's technically true. But the real reason? It's a power move. You walk into a meeting with a big white monster and people know — *this man is not here to play*. It's long. It's cold. It's got that grip. BDE in a can.
 
 ## 🧰 Tech Stack (Things I Have Weaponized)
 
 ![Kubernetes](https://img.shields.io/badge/-Kubernetes-326CE5?style=flat-square&logo=kubernetes&logoColor=white)
+![K3s](https://img.shields.io/badge/-K3s-FFC61C?style=flat-square&logo=k3s&logoColor=black)
 ![Rancher](https://img.shields.io/badge/-Rancher-0075A8?style=flat-square&logo=rancher&logoColor=white)
 ![Docker](https://img.shields.io/badge/-Docker-2496ED?style=flat-square&logo=docker&logoColor=white)
 ![Helm](https://img.shields.io/badge/-Helm-0F1689?style=flat-square&logo=helm&logoColor=white)
@@ -40,6 +42,18 @@ I also invented things. On purpose. With intent. Like a menace.
 ![PowerShell](https://img.shields.io/badge/-PowerShell-5391FE?style=flat-square&logo=powershell&logoColor=white)
 ![MQTT](https://img.shields.io/badge/-MQTT-660066?style=flat-square&logo=mqtt&logoColor=white)
 ![Node--RED](https://img.shields.io/badge/-Node--RED-8F0000?style=flat-square&logo=node-red&logoColor=white)
+![n8n](https://img.shields.io/badge/-n8n-EA4B71?style=flat-square&logo=n8n&logoColor=white)
+![Raspberry Pi](https://img.shields.io/badge/-Raspberry%20Pi-A22846?style=flat-square&logo=raspberrypi&logoColor=white)
+![Windows 11 IoT](https://img.shields.io/badge/-Windows%2011%20IoT-0078D4?style=flat-square&logo=windows11&logoColor=white)
+![openSUSE MicroOS](https://img.shields.io/badge/-openSUSE%20MicroOS-73BA25?style=flat-square&logo=opensuse&logoColor=white)
+![openSUSE Tumbleweed](https://img.shields.io/badge/-openSUSE%20Tumbleweed-73BA25?style=flat-square&logo=opensuse&logoColor=white)
+![CODESYS](https://img.shields.io/badge/-CODESYS-009ACE?style=flat-square&logoColor=white)
+![Ignition](https://img.shields.io/badge/-Ignition%20SCADA-FF6600?style=flat-square&logoColor=white)
+![OpenZiti](https://img.shields.io/badge/-OpenZiti-00B0E8?style=flat-square&logoColor=white)
+![OpenVPN](https://img.shields.io/badge/-OpenVPN-EA7E20?style=flat-square&logo=openvpn&logoColor=white)
+![OpenWrt](https://img.shields.io/badge/-OpenWrt-00B5E2?style=flat-square&logo=openwrt&logoColor=white)
+![OpenWISP](https://img.shields.io/badge/-OpenWISP-364150?style=flat-square&logoColor=white)
+![WireGuard](https://img.shields.io/badge/-WireGuard-88171A?style=flat-square&logo=wireguard&logoColor=white)
 
 ## 🔥 Current Projects (Things Keeping Me From Therapy)
 
@@ -69,6 +83,7 @@ I also invented things. On purpose. With intent. Like a menace.
 - Building Helm charts for everything from Mosquitto to Node-RED to whatever cursed thing I dreamt about last night
 - CI/CD pipelines that deploy faster than my fight-or-flight response can kick in
 - Rancher Fleet keeping GitOps in check so I don't `kubectl apply` my way into another incident report with my name on it
+- K3s clusters running on Raspberry Pis behind OpenWrt routers tunneled through WireGuard and OpenZiti like a networking fever dream that somehow works
 - Every chart I write is a love letter to infrastructure that will never love me back
 
 ### 🤖 **AI-Powered... Look, Man, It Does Things**
@@ -102,11 +117,12 @@ I also invented things. On purpose. With intent. Like a menace.
 
 - **Kubernetes**: I can debug a CrashLoopBackOff blindfolded, half-asleep, in boxers, with one hand holding my white monster. I have done all of these simultaneously. The pod came back up. I did not.
 - **Rancher**: Managing multi-cluster deployments like a feral cat herder at a laser pointer convention. Chaotic. Effective. Nobody should watch.
+- **Go**: I write Go like it owes me money. Goroutines, channels, defer statements — I think in Go now. My internal monologue compiles. `go build` is my love language. Static binaries with zero dependencies, deployed to K3s on a Raspberry Pi over a WireGuard tunnel at 3 AM. This is what peak performance looks like. You may not like it.
 - **Helm**: I write charts in my sleep. I've dreamt in Go templates. I woke up once and had typed `{{ .Values.help.me }}` into a Discord DM. To my boss.
 - **YAML**: Stockholm syndrome doesn't cover it. I have *feelings* for YAML. I find indentation errors soothing. Two-space indentation is correct and I will die on this hill. Alone. With my White Monster.
 - **Debugging**: Professional panic-Googler. Stack Overflow Hall of Fame inductee (pending). GitHub Issues archaeologist. I have found answers in closed issues from 2014 that were marked "wontfix." I fixed them anyway.
 - **Documentation**: Write incredibly detailed, beautifully formatted documentation that future-me will absolutely, categorically, without question, ignore at 3 AM while panicking.
-- **White Monster**: Principal Engineer, nearing VP level. The fridge at work has a label that says `env: production`. Nobody asked me to do this. Nobody told me to stop.
+- **White Monster**: Principal Engineer, nearing VP level. The fridge at work has a label that says `env: production`. Nobody asked me to do this. Nobody told me to stop. I pull out my white monster in meetings and the energy in the room shifts. It's 16oz of dominance in a can. People have asked if I'm compensating for something. I'm not. The white monster speaks for itself. You see a man double-fist two white monsters simultaneously and you *know* he's not here to discuss quarterly OKRs. He's here to deploy.
 - **Sleep**: Deprecated. Running on a legacy schedule. No plans to upgrade.
 
 ## 📦 What Lurks In My GitHub (Enter At Your Own Risk)
@@ -124,7 +140,7 @@ Mostly Kubernetes manifests, Helm charts, Rancher configs, and the kind of infra
 
 ## 🎯 Fun Facts (Cries For Help Disguised As Personality Traits)
 
-- I don't drink coffee. Coffee is for people who want to *gently wake up*. I drink white monster because I want to achieve low Earth orbit by 9 AM... My cardiologist is *fascinated*.
+- I don't drink coffee. Coffee is for people who want to *gently wake up*. I drink white monster because I want to achieve low Earth orbit by 9 AM. My cardiologist is *fascinated*. My white monster is always out on the desk. Fully visible. Asserting dominance. Coworkers walk by and they *know*. They know what that white monster means. It means I'm locked in. It means code is about to get written. It means someone's Jira ticket is about to get *closed*.
 - Debugging in production isn't a bug — it's a lifestyle choice and I've committed to it like a marriage I can't leave.
 - My commit history reads like the five stages of grief, looping infinitely, with no garbage collection.
 - I've been "just trying one more thing" since 2019. It is now 2026. The "one more thing" has not ended. I don't think it ever will.
@@ -133,6 +149,8 @@ Mostly Kubernetes manifests, Helm charts, Rancher configs, and the kind of infra
 - I have invented two actual products (**Industrial Dashboard** & **Emberburn**) and my imposter syndrome still sends me emails like "are you sure tho?"
 - I once stayed awake for 38 hours during a migration and hallucinated that a Grafana panel was talking to me. It was right about the CPU spike.
 - The number of white monster I consume daily is a trade secret protected under NDA. Mostly because if I said it out loud, someone would stage an intervention. Then rush me to the ER.
+- I run K3s on Raspberry Pis because real men run production Kubernetes on $35 ARM boards over WireGuard tunnels managed by OpenWrt routers flashed at 2 AM.
+- My Go binaries compile in seconds and deploy in milliseconds. My white monster deploys in one long, unbroken sip. Both are big. Both are powerful. Both make people uncomfortable.
 
 ## 🗣️ Things I've Said Out Loud That Concerned People
 
@@ -148,6 +166,8 @@ Mostly Kubernetes manifests, Helm charts, Rancher configs, and the kind of infra
 
 > "I'm fine." — me, clearly not fine, surrounded by 6 empty white monster cans and 14 terminal windows
 
+> "My white monster is bigger than yours." — me, to a coworker who showed up with a Red Bull. He has since switched. You're welcome.
+
 > "You can't fire me, I'm the only one who knows how the YAML works" — technically not a threat, technically
 
 ## 📬 Reach Me (I Cannot Be Contained)
@@ -160,7 +180,7 @@ Mostly Kubernetes manifests, Helm charts, Rancher configs, and the kind of infra
 
 ---
 
-**TL;DR**: CTO, inventor, and professional infrastructure arsonist at Fireball Industries. Built **Industrial Dashboard** and **Emberburn** from scratch because nobody else was going to and honestly nobody asked me to, I just *did it* and now people depend on them and I can never stop. Runs Kubernetes clusters on Rancher across more architectures than I have healthy coping mechanisms. Fueled exclusively by White Monsters and nicotine. Deploys to prod on Fridays. Has mass orchestrated containers across architectures that engineers said couldn't be done. Has not touched grass in an amount of time I'm not comfortable disclosing. Perpetually one `kubectl delete --all` away from a career change and a beach somewhere.
+**TL;DR**: CTO, inventor, and professional infrastructure arsonist at Fireball Industries. Built **Industrial Dashboard** and **Emberburn** from scratch because nobody else was going to and honestly nobody asked me to, I just *did it* and now people depend on them and I can never stop. Runs Kubernetes and K3s clusters on Rancher across more architectures than I have healthy coping mechanisms. Writes Go binaries that deploy to Raspberry Pis over WireGuard tunnels through OpenWrt routers running openSUSE MicroOS. Fueled exclusively by White Monsters and nicotine. My white monster is always out. Always visible. Always big. Deploys to prod on Fridays. Has mass orchestrated containers across architectures that engineers said couldn't be done. Has not touched grass in an amount of time I'm not comfortable disclosing. Perpetually one `kubectl delete --all` away from a career change and a beach somewhere.
 
 *Last updated: 3 AM, obviously. Between a White Monster and an alert that turned out to be nothing. Like all my problems. Except the ones that weren't. Which is most of them.*
 
