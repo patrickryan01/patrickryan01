@@ -22,7 +22,7 @@ I also invented things. On purpose. With intent. Like a menace. I write Go like 
 - 🤖 **AI Adjacent**: My job title legally requires this bullet point. I am complying under protest.
 - 🥤 **White Monster IV Drip**: Zero Ultra is the daily driver. Zero Sugar is for deployments. Pipeline is the blood. I am the pipeline. The fridge has a Kubernetes label on it. This is not a joke. People ask me why I always have a White Monster in my hand. I tell them it's for the energy. That's technically true. But the real reason? It's a power move. You walk into a meeting with a big white monster and people know — *this man is not here to play*. It's long. It's cold. It's got that grip. BDE in a can.
 
-## 🧰 Tech Stack (Things I Have Weaponized)((Nerd Salad. Suck it. Who's the mustang now?!)
+## 🧰 Tech Stack (Things I Have Weaponized)((Nerd Salad)
 
 ![Kubernetes](https://img.shields.io/badge/-Kubernetes-326CE5?style=flat-square&logo=kubernetes&logoColor=white)
 ![K3s](https://img.shields.io/badge/-K3s-FFC61C?style=flat-square&logo=k3s&logoColor=black)
