@@ -1,4 +1,4 @@
-# 👋 Sup, I'm Patrick Ryan
+# 🤙 Sup, I'm Patrick Ryan
 
 ### I should not have access to production systems but here we are
 
