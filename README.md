@@ -2,7 +2,7 @@
 
 ### I should not have access to production systems but here we are
 
-**CTO @ Fireball Industries** 🔥 — Somehow still vertical and still shipping code at [fireballz.ai](https://fireballz.ai). Yes, the domain ends in `.ai` because it's 2026 and if your company doesn't have an AI domain you're basically a fax machine. Investors love it. My therapist has concerns. I have a white monster. A big one. Thick. People see me grip it and they either look away or ask questions they're not ready to hear the answers to. We are not the same.
+**CTO @ Fireball Industries** 🔥. Somehow still vertical and still shipping code at [fireballz.ai](https://fireballz.ai). Yes, the domain ends in `.ai` because it's 2026 and if your company doesn't have an AI domain you're basically a fax machine. Investors love it. My therapist has concerns. I have a white monster. A big one. Thick. People see me grip it and they either look away or ask questions they're not ready to hear the answers to. We are not the same.
 
 > *"I mass consume White Monster, mass produce YAML files, and mass convert existential dread into Prometheus alerts. I am the pipeline. The pipeline is me. We have become one. My white monster is always in my hand. It's the first thing I reach for in the morning and the last thing I put down at night. People stare. I let them."*
 
@@ -12,20 +12,20 @@
 
 I keep industrial IoT systems running so factory floors don't become very expensive modern art installations. You know that 3 AM phone call where everything is on fire? I don't wait for the call anymore. I'm already awake. I'm always awake. The white monster won't let me sleep and the Prometheus alerts won't let me forget.
 
-I also invent things. On purpose. With intent. Like a menace. I write Go like a man possessed — goroutines spawning, channels flowing, binaries compiling into single static executables that deploy like a fist through drywall. And when I'm not doing that, I'm standing at a CNC machine turning raw material into something that *matters*, because I have trust issues with people who have never made something physical with their hands.
+I also invent things. On purpose. With intent. Like a menace. I write Go like a man possessed. Goroutines spawning, channels flowing, binaries compiling into single static executables that deploy like a fist through drywall. And when I'm not doing that, I'm standing at a CNC machine turning raw material into something that *matters*, because I have trust issues with people who have never made something physical with their hands.
 
 - 🏭 **Industrial IoT Necromancer**: I raise dead PLCs from their graves, force them to speak MQTT, and make them *like it*. CODESYS, Node-RED, and protocols that predate my will to live.
-- ☁️ **Cloud Native Villain Origin Story**: Helm charts, Kubernetes, Rancher — I have mass orchestrated containers across architectures like some kind of digital warlord and I have zero plans to stop.
-- 📊 **Observability Gremlin**: Prometheus, Grafana, Loki, InfluxDB, TimescaleDB — I will graph your failures, print them out, frame them, and hang them in my office. I have done this.
+- ☁️ **Cloud Native Villain Origin Story**: Helm charts, Kubernetes, Rancher. I have mass orchestrated containers across architectures like some kind of digital warlord and I have zero plans to stop.
+- 📊 **Observability Gremlin**: Prometheus, Grafana, Loki, InfluxDB, TimescaleDB. I will graph your failures, print them out, frame them, and hang them in my office. I have done this.
 - 🔐 **Security Unhinged Mode**: Building defenses so your PLC doesn't join a botnet and start mining Dogecoin. Not because I care about crypto. Because that's *my* PLC and it works for *me* goddamnit.
 - 🐹 **Go Enjoyer**: I write Go because real systems need real binaries, not 400MB Docker images full of node_modules and regret. `go build`. Static binary. Deploy. Done. The compiler is my therapist and it has zero tolerance for my bullshit.
 - 🔩 **CNC Machinist**: G-code is just programming with existential consequences. I run CNC mills and lathes because sometimes you need to remove material until the problem is physically gone. Metaphor or not, it works.
-- 🖨️ **Additive Manufacturing**: I also *add* material until things exist that didn't before. FDM, SLA — I've printed brackets, fixtures, and parts that are currently in production environments doing real jobs. On real machines. That's insane and I love it.
+- 🖨️ **Additive Manufacturing**: I also *add* material until things exist that didn't before. FDM, SLA. I've printed brackets, fixtures, and parts that are currently in production environments doing real jobs. On real machines. That's insane and I love it.
 - ⚡ **EDM Machining**: Electrical Discharge Machining. I erode metal with controlled lightning. That's the whole sentence. I erode metal. With lightning. On purpose. You going to tell me that isn't the most unhinged manufacturing process ever invented? You're not. Because it is.
 - 🤖 **AMS2 Robotics**: Automated Manufacturing Systems. I program robots to do the things humans are too slow, too tired, or too important to do themselves. I have programmed a robot arm and I have also once argued with it for 45 minutes before realizing the coordinate system was wrong. We don't talk about that.
-- 📐 **CAD**: SolidWorks, Fusion 360 — I design parts before I make them like a responsible adult and also occasionally design cursed things at 2 AM that I then immediately machine into existence. Both approaches have worked.
-- 🧠 **AI in Production**: Fireballz.ai powers AI features baked directly into the Industrial Dashboard — anomaly detection, predictive maintenance signals, and AI-assisted alerting running on actual factory floors doing actual work. Not a demo. Not a slide deck. *Production.* My marketing team didn't write that. I lived it.
-- 🥤 **White Monster IV Drip**: Zero Ultra is the daily driver. Zero Sugar is for deployments. Pipeline is the blood. I am the pipeline. The fridge has a Kubernetes label on it. This is not a joke. You walk into a meeting with a big white monster and people know — *this man is not here to play*. It's long. It's cold. It's got that grip. BDE in a can.
+- 📐 **CAD**: SolidWorks, Fusion 360. I design parts before I make them like a responsible adult and also occasionally design cursed things at 2 AM that I then immediately machine into existence. Both approaches have worked.
+- 🧠 **AI in Production**: Fireballz.ai powers AI features baked directly into the Industrial Dashboard: anomaly detection, predictive maintenance signals, and AI-assisted alerting running on actual factory floors doing actual work. Not a demo. Not a slide deck. *Production.* My marketing team didn't write that. I lived it.
+- 🥤 **White Monster IV Drip**: Zero Ultra is the daily driver. Zero Sugar is for deployments. Pipeline is the blood. I am the pipeline. The fridge has a Kubernetes label on it. This is not a joke. You walk into a meeting with a big white monster and people know: *this man is not here to play*. It's long. It's cold. It's got that grip. BDE in a can.
 
 ## 🧰 Tech Stack (Things I Have Weaponized)(Nerd Salad)
 
@@ -66,20 +66,20 @@ I also invent things. On purpose. With intent. Like a menace. I write Go like a 
 
 ### 🏗️ **Industrial Dashboard** *(Fireball Industries. EmberNet Platform. MY CREATION. WITH THESE HANDS.)*
 > The industry gave me garbage monitoring tools so I blacked out and built my own. You're welcome. It runs on EmberNet. It has AI in it. From Fireballz. In production. On factory floors. Right now. While you're reading this.
-- Full-stack industrial IoT dashboard — a **Fireball Industries** product living on the **EmberNet** platform, because I didn't just build a dashboard, I built the platform it runs on, and then I built the dashboard on the platform I built. This is called vertical integration. Or a problem. Depends who you ask.
-- **AI-powered through [Fireballz.ai](https://fireballz.ai)** — anomaly detection, predictive maintenance, AI-assisted alerting. Not vibes. Not a pitch deck. Running in production on real machines in real factories right now.
+- Full-stack industrial IoT dashboard, a **Fireball Industries** product living on the **EmberNet** platform, because I didn't just build a dashboard, I built the platform it runs on, and then I built the dashboard on the platform I built. This is called vertical integration. Or a problem. Depends who you ask.
+- **AI-powered through [Fireballz.ai](https://fireballz.ai)**: anomaly detection, predictive maintenance, AI-assisted alerting. Not vibes. Not a pitch deck. Running in production on real machines in real factories right now.
 - Wrangling CODESYS PLCs, Ignition Edge, and Home Assistant into one UI that doesn't make operators contemplate career changes
-- Kubernetes-managed across AMD64, ARM64, and x86 — three architectures, one man, zero boundaries, several noise complaints from my neighbors at 4 AM
+- Kubernetes-managed across AMD64, ARM64, and x86. Three architectures, one man, zero boundaries, several noise complaints from my neighbors at 4 AM
 - Rancher wrangling all the clusters like a disappointed parent at a birthday party where every child is a microservice
 - If a valve sneezes in a plant at 2 AM, this dashboard texts me, emails me, pages me, and honestly I think it's developing feelings
 - **This dashboard has more emotional intelligence than most people I've met. Considerably more uptime too. And now it's got AI. So it's smarter than me. I'm fine with this.**
 
 ### 🌐 **EmberNet** *(MINE. THE PLATFORM. THE FOUNDATION. ALL OF IT.)*
 > I looked at the IoT connectivity market, I looked at what existed, I made a face, and then I built EmberNet. That's the origin story. There was no second draft. The Industrial Dashboard runs on it. The AI runs on it. Everything runs on it. Because I built the thing that everything else runs on.
-- EmberNet is the **Fireball Industries industrial IoT platform** — connecting, managing, and monitoring edge devices at scale, from factory floors to edge compute nodes to the MQTT broker running in a K3s cluster on a Raspberry Pi behind a WireGuard tunnel in a server room that smells like cutting fluid and ambition
+- EmberNet is the **Fireball Industries industrial IoT platform**, connecting, managing, and monitoring edge devices at scale, from factory floors to edge compute nodes to the MQTT broker running in a K3s cluster on a Raspberry Pi behind a WireGuard tunnel in a server room that smells like cutting fluid and ambition
 - **The Industrial Dashboard is a first-party application on the EmberNet platform.** Built by me. For the platform I built. This is either ecosystem development or a coping mechanism. Both.
-- **Fireballz AI integrates at the platform level** — the intelligence layer that makes the dashboard smart, makes the alerts actionable, and makes me feel things when it catches an anomaly before I do. Which it does. Regularly. I trained something that's better at my job than I was in 2022 and I'm choosing to feel good about that.
-- Multi-tenant from the ground up. Device management, telemetry ingestion, real-time dashboards, alert routing — the whole salad. I grew the garden.
+- **Fireballz AI integrates at the platform level.** The intelligence layer that makes the dashboard smart, makes the alerts actionable, and makes me feel things when it catches an anomaly before I do. Which it does. Regularly. I trained something that's better at my job than I was in 2022 and I'm choosing to feel good about that.
+- Multi-tenant from the ground up. Device management, telemetry ingestion, real-time dashboards, alert routing. The whole salad. I grew the garden.
 - Free tier exists because I believe in access. Pro tier exists because servers cost money and I have opinions about infrastructure that I intend to act on. Enterprise tier exists because some people need a phone number to call at 3 AM and I am that phone number.
 - Connects to anything: MQTT brokers, OPC-UA endpoints, Modbus slaves, REST APIs, and protocols your grandpa used to run a factory in 1994 that are somehow still running in 2026. I do not judge the protocol. I connect to it.
 - The networking stack runs on OpenZiti, WireGuard, and OpenWrt. Zero Trust for the edge. Not because it's trendy. Because I've seen what happens to factories that don't, and it is embarrassing and also expensive.
@@ -89,7 +89,7 @@ I also invent things. On purpose. With intent. Like a menace. I write Go like a 
 ### 🔥 **Emberburn** *(chaos engineering software. separate thing. different product. yes there are two of them. yes I named them both Ember something. no I do not regret this.)*
 > When everything is on fire, you don't call the fire department. You become the fire. You *are* the burn. That's the whole brand.
 - Built Emberburn from the ground up because existing solutions had the personality of a tax form and the usefulness of a screen door on a submarine
-- Controlled chaos for infrastructure — burn testing, failure injection, resilience validation. I break things *professionally* so they don't break *embarrassingly*
+- Controlled chaos for infrastructure: burn testing, failure injection, resilience validation. I break things *professionally* so they don't break *embarrassingly*
 - Pairs with Industrial Dashboard like White Monster pairs with nicotine and questionable decisions at midnight. Beautifully. Dangerously.
 - Born from the philosophy: "If it's gonna break, it breaks on MY terms, on MY schedule, while I'm wearing MY favorite hoodie with MY Grafana open"
 - **If chaos engineering had a final boss, Emberburn would be the cutscene before the fight**
@@ -106,18 +106,21 @@ I also invent things. On purpose. With intent. Like a menace. I write Go like a 
 - K3s clusters running on Raspberry Pis behind OpenWrt routers tunneled through WireGuard and OpenZiti like a networking fever dream that somehow works
 - Every chart I write is a love letter to infrastructure that will never love me back
 
-### 🧠 **AI — Fireballz.ai (No, This Is Real, Stop Looking At Me Like That)**
-- [Fireballz.ai](https://fireballz.ai) is the AI layer. Not vibes. Not a landing page with a waitlist and a stock photo of a robot. **Actual AI running in actual industrial environments doing actual things.**
-- Anomaly detection baked into the Industrial Dashboard — the system flags when something is wrong before the alarm goes off, before the sensor threshold trips, before the 3 AM phone call. The phone call still happens sometimes. But less. I'm working on it.
-- Predictive maintenance signals from time-series data that would otherwise just be very expensive noise. It's not expensive noise anymore. It's insight. I hate how much I like saying that.
-- AI-assisted alerting that knows the difference between "this is fine" and "this is extremely not fine" — a distinction that was previously made by me, at 3 AM, half-asleep, and occasionally wrong
-- The models run on the EmberNet platform. The dashboard surfaces the output. The whole thing is a closed loop I built from scratch and it genuinely works and I'm not over it.
+### 🧠 **AI That Can Actually Touch The Cluster (I Gave It Hands. On Purpose.)**
+> Everybody else shipped a chatbot that reads your logs back to you and called it innovation. I gave one operational access to industrial control infrastructure. One of us is ending up in a deposition and I have made peace with which one.
+- We built an AI that lives **inside** the industrial Kubernetes instead of hovering above it offering suggestions. It runs in your EmberNet cluster, in your namespace, on your hardware, behind your firewall. Your plant data does not take a field trip to somebody else's GPU farm so a vendor can charge you rent on telemetry you already own.
+- You ask it things. In English. Like a person with better uses for their evening. "Which nodes are about to fall over." "Show me every device that stopped talking to the broker since Thursday." "Put Node-RED back the way it was before I got ambitious." It goes and does that. It does not open a ticket. It does not schedule a follow-up. It does the thing.
+- It drives the EmberNet dashboard the way you would, except it never loses the tab, never forgets which tenant it's standing in, and never spends nine minutes squinting at a panel trying to work out what past-you meant by that query.
+- Full range of motion on your cluster: inspect workloads, pull logs, reconstruct a pod's entire miserable life story, query telemetry, walk device state, deploy off the App Store, and drag a bad release backward before anyone downstream notices. Scoped to your tenant, bound by RBAC, and written down afterward. An AI holding unrestricted cluster permissions isn't a feature, it's a lawsuit with a pleasant onboarding flow.
+- It asks before it does anything with a body count. Every time. No exceptions. It has more operational restraint than I have demonstrated in my entire career, and I am the person who wrote that restraint into it, which raises a question I have decided not to chase down.
+- It works the boring hours instead of the heroic ones. Nobody has to be conscious for a rollback now, which is a sentence I would have fought a man over in 2021.
+- **I built something that can run my infrastructure without me, handed it to paying customers, and now I get to find out what I'm for. The factory does not care either way. The factory has never cared. That's the part I've always respected about it.**
 
 ## 📈 Achievements Unlocked (Evidence I Should Be Studied)
 
-- ✅ **Invented Industrial Dashboard** — the industry's monitoring solution was a guy named Dave and a clipboard. I took that personally and built an entire platform.
-- ✅ **Invented Emberburn** — got so tired of infrastructure breaking on *its* schedule that I built a tool to break it on *mine*. This is what they call "proactive" in polite company and "unhinged" everywhere else.
-- ✅ **Built EmberNet** — looked at the IoT connectivity space, saw a gap the size of a CNC-machined bore hole, and filled it with a full industrial IoT platform. The gap did not resist. Neither did the metal.
+- ✅ **Invented Industrial Dashboard.** The industry's monitoring solution was a guy named Dave and a clipboard. I took that personally and built an entire platform.
+- ✅ **Invented Emberburn.** Got so tired of infrastructure breaking on *its* schedule that I built a tool to break it on *mine*. This is what they call "proactive" in polite company and "unhinged" everywhere else.
+- ✅ **Built EmberNet.** Looked at the IoT connectivity space, saw a gap the size of a CNC-machined bore hole, and filled it with a full industrial IoT platform. The gap did not resist. Neither did the metal.
 - ✅ Made CODESYS containers work on ARM64. The documentation said impossible. I said "bet." The documentation has since been updated. You're welcome, internet.
 - ✅ Deployed Rancher to manage clusters across multiple architectures. My mind? Lost. The clusters? Managed. The trade was worth it.
 - ✅ Built a full observability stack that caught issues before users did. Users still complained. I graphed the complaints. In Grafana. With custom annotations.
@@ -146,7 +149,7 @@ I also invent things. On purpose. With intent. Like a menace. I write Go like a 
 
 - **Kubernetes**: I can debug a CrashLoopBackOff blindfolded, half-asleep, in boxers, with one hand holding my white monster. I have done all of these simultaneously. The pod came back up. I did not.
 - **Rancher**: Managing multi-cluster deployments like a feral cat herder at a laser pointer convention. Chaotic. Effective. Nobody should watch.
-- **Go**: I write Go like it owes me money. Goroutines, channels, defer statements — I think in Go now. My internal monologue compiles. `go build` is my love language. Static binaries with zero dependencies, deployed to K3s on a Raspberry Pi over a WireGuard tunnel at 3 AM. This is what peak performance looks like. You may not like it.
+- **Go**: I write Go like it owes me money. Goroutines, channels, defer statements. I think in Go now. My internal monologue compiles. `go build` is my love language. Static binaries with zero dependencies, deployed to K3s on a Raspberry Pi over a WireGuard tunnel at 3 AM. This is what peak performance looks like. You may not like it.
 - **Helm**: I write charts in my sleep. I've dreamt in Go templates. I woke up once and had typed `{{ .Values.help.me }}` into a Discord DM. To my boss.
 - **YAML**: Stockholm syndrome doesn't cover it. I have *feelings* for YAML. I find indentation errors soothing. Two-space indentation is correct and I will die on this hill. Alone. With my White Monster.
 - **CAD**: I model parts in SolidWorks and Fusion 360 and then I make those parts exist in physical reality. The feedback loop between design and material is the closest thing I have to a hobby that isn't also my job. It is also my job.
@@ -163,11 +166,11 @@ I also invent things. On purpose. With intent. Like a menace. I write Go like a 
 
 Mostly Kubernetes manifests, Helm charts, Rancher configs, and the kind of infrastructure code that makes senior engineers go quiet, close their laptop, and take a walk outside.
 
-- 🏗️ **Industrial Dashboard** — my firstborn invention, my magnum opus, the reason I need new glasses and a lumbar support pillow
-- 🌐 **EmberNet** — industrial IoT platform, multi-tenant, cloud-native, and built by someone who was angry enough about the alternatives to build their own
-- 🔥 **Emberburn** — my chaos engineering tool, designed to break things so production doesn't. It was born angry and I respect that.
+- 🏗️ **Industrial Dashboard**, my firstborn invention, my magnum opus, the reason I need new glasses and a lumbar support pillow
+- 🌐 **EmberNet**, industrial IoT platform, multi-tenant, cloud-native, and built by someone who was angry enough about the alternatives to build their own
+- 🔥 **Emberburn**, my chaos engineering tool, designed to break things so production doesn't. It was born angry and I respect that.
 - 🏭 Industrial IoT monitoring and control systems that actually work. I know. I'm surprised too. Every day.
-- 📊 Full observability stacks — Prometheus, Grafana, Loki, all together like a dysfunctional Thanksgiving dinner I host voluntarily
+- 📊 Full observability stacks: Prometheus, Grafana, Loki, all together like a dysfunctional Thanksgiving dinner I host voluntarily
 - 🐳 Docker containers for things that absolutely, unequivocally, under no circumstances should be containerized. They're containerized. Fight me.
 - 📈 TimescaleDB and InfluxDB deployments for time-series data hoarding. I keep all of it. *All of it.* I'm one bad day away from graphing how many times I blink.
 - 🔌 MQTT, Node-RED, and protocols that were invented before I was born that I have somehow become responsible for
@@ -177,17 +180,17 @@ Mostly Kubernetes manifests, Helm charts, Rancher configs, and the kind of infra
 ## 🎯 Fun Facts (Cries For Help Disguised As Personality Traits)
 
 - I don't drink coffee. Coffee is for people who want to *gently wake up*. I drink white monster because I want to achieve low Earth orbit by 9 AM. My cardiologist is *fascinated*.
-- Debugging in production isn't a bug — it's a lifestyle choice and I've committed to it like a marriage I can't leave.
+- Debugging in production isn't a bug. It's a lifestyle choice and I've committed to it like a marriage I can't leave.
 - My commit history reads like the five stages of grief, looping infinitely, with no garbage collection.
 - I've been "just trying one more thing" since 2019. It is now 2026. The "one more thing" has not ended. I don't think it ever will.
-- My Kubernetes clusters have more uptime than my sleep schedule, my social life, my gym membership. My personal projects have just become professional projects.
+- My Kubernetes clusters have more uptime than my sleep schedule, my social life, and my gym membership. My personal projects have just become professional projects.
 - Grafana dashboards are my love language. I have shown dashboards to people on dates. There was no second date. I regret nothing.
 - I have invented three actual products (**Industrial Dashboard**, **Emberburn**, and **EmberNet**) and my imposter syndrome still sends me emails like "are you sure tho?"
 - I once stayed awake for 38 hours during a migration and hallucinated that a Grafana panel was talking to me. It was right about the CPU spike.
 - The number of white monsters I consume daily is a trade secret protected under NDA. Mostly because if I said it out loud, someone would stage an intervention. Then rush me to the ER.
 - I run K3s on Raspberry Pis because real men run production Kubernetes on $35 ARM boards over WireGuard tunnels managed by OpenWrt routers flashed at 2 AM.
 - My Go binaries compile in seconds and deploy in milliseconds. My white monster deploys in one long, unbroken sip. Both are big. Both are powerful. Both make people uncomfortable.
-- I have designed a part in CAD, machined it on a CNC mill, and deployed software to the machine running it — all in one day. This is called vertical integration. Or a problem. Depends who you ask.
+- I have designed a part in CAD, machined it on a CNC mill, and deployed software to the machine running it, all in one day. This is called vertical integration. Or a problem. Depends who you ask.
 - Say sorry to your mom for all the Wi-Fi she thinks the neighbors are stealing. It's me. Using her AP as an MQTT broker. I'm not apologizing.
 
 ## 🗣️ Things I've Said Out Loud That Concerned People
@@ -214,11 +217,11 @@ Mostly Kubernetes manifests, Helm charts, Rancher configs, and the kind of infra
 
 ## 📬 Reach Me (I Cannot Be Contained)
 
-- 📧 [patrick@fireballz.ai](mailto:patrick@fireballz.ai) — the corporate line, I respond faster than my Prometheus scrape interval (15s, if you're curious)
-- 📧 [patrick.ryan1988@outlook.com](mailto:patrick.ryan1988@outlook.com) — the personal line, for when you need the real me, unfiltered, possibly holding a White Monster
-- 🎮 Discord: **pryan0508** — this is where I actually live. My apartment is just where I keep my monitors.
-- 🔗 [LinkedIn](https://www.linkedin.com/in/patrickr88) — where I cosplay as a professional and use words like "synergy" without gagging
-- 🐙 GitHub — where the mask comes off, the 3 AM commits live, and the git blame tells a story of a man on the edge
+- 📧 [patrick@fireballz.ai](mailto:patrick@fireballz.ai), the corporate line. I respond faster than my Prometheus scrape interval (15s, if you're curious)
+- 📧 [patrick.ryan1988@outlook.com](mailto:patrick.ryan1988@outlook.com), the personal line, for when you need the real me, unfiltered, possibly holding a White Monster
+- 🎮 Discord: **pryan0508**. This is where I actually live. My apartment is just where I keep my monitors.
+- 🔗 [LinkedIn](https://www.linkedin.com/in/patrickr88), where I cosplay as a professional and use words like "synergy" without gagging
+- 🐙 GitHub, where the mask comes off, the 3 AM commits live, and the git blame tells a story of a man on the edge
 
 ---
 
@@ -226,4 +229,4 @@ Mostly Kubernetes manifests, Helm charts, Rancher configs, and the kind of infra
 
 *Last updated: 3 AM, obviously. Between a White Monster and an alert that turned out to be nothing. Like all my problems. Except the ones that weren't. Which is most of them.*
 
-*P.S. — If you read this whole thing, you're either a recruiter, deeply bored, or also unhinged. Either way, welcome. You're my people now. Say sorry to your mom.*
+*P.S. If you read this whole thing, you're either a recruiter, deeply bored, or also unhinged. Either way, welcome. You're my people now. Say sorry to your mom.*
